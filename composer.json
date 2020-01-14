@@ -1,0 +1,32 @@
+{
+    "name": "bitendian/tbp-i18n-manager",
+    "type": "library",
+    "description": "Management package for i18n static texts for TBP",
+    "keywords": ["tbp", "i18n", "multilanguage", "modules", "services", "gettext"],
+    "homepage": "http://www.bitendian.com/en/portfolio/tbp-5/",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Bitendian S.L.",
+            "email": "info@bitendian.com",
+            "homepage": "http://www.bitendian.com"
+        }
+    ],
+    "repositories": [
+        { "type": "vcs", "url": "git@github.com:Bitendian/tbp.git" }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "ext-gettext": "*",
+        "ext-json": "*",
+        "bitendian/tbp": "1.0.18",
+        "gettext/gettext": "4.6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bitendian\\TBP\\I18n\\": "src/"
+        }
+    }
+}
+25c760565588518de206bc329b54fe949b45edd0
