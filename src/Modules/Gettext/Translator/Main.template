@@ -1,0 +1,12 @@
+<form class="qa_savetranslationsform" method="post" action="">
+    <input type="hidden" name="action" value="@@ACTION@@" />
+    <button type="submit" class="qa_savetranslations btn btn-success form-control">##Save translations##</button>
+    <br /><br />
+    <table width="100%" class="table">
+        <thead>
+            %%COLS%%
+        </thead>
+        %%ROWS%%
+    </table>
+    <button type="submit" class="qa_savetranslations btn btn-success form-control">##Save translations##</button>
+</form>

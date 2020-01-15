@@ -1,0 +1,7 @@
+<form method="post" action="@@DOWNLOADEXPORTXLS@@" class="qa_exporttoxlsform">
+    <div style="width: 100%; text-align: right">
+        <button type="submit" class="qa_exporttranslations btn btn-success">
+            <span class="glyphicon glyphicon-cloud-download"></span>&nbsp;##Export translations to XLS##
+        </button>
+    </div>
+</form>

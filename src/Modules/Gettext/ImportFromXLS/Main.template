@@ -1,0 +1,13 @@
+<form method="post" action="" class="qa_importtoxlsform" enctype="multipart/form-data">
+    <input type="hidden" name="action" value='@@ACTION@@' />
+    <div class="">
+        <span class="btn-group">
+            <label class="btn btn-default">
+                ##Browse translations##... <input class="qa_importfile" type="file" name="File" value='' style="display: none;" />
+            </label>
+            <button type="submit" class="qa_importbutton btn btn-success">
+                <span class="glyphicon glyphicon-cloud-upload"></span>&nbsp;##Import translations from XLS##
+            </button>
+        </span>
+    </div>
+</form>

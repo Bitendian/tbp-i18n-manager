@@ -1,0 +1,14 @@
+<div>
+    <div class="col-md-2"></div>
+    <div class="col-md-2">@@CREATELANGUAGECOMPONENT@@</div>
+    <div class="col-md-3">@@PARSER@@</div>
+    <div class="col-md-2">@@EXPORTTOXLS@@</div>
+    <div class="col-md-3">@@IMPORTFROMXLS@@</div>
+</div>
+<hr>
+<h2>##Active Languages##</h2>
+@@SELECTLANGUAGES@@
+<hr>
+<h2>##Translations##</h2>
+@@TRANSLATOR@@
+

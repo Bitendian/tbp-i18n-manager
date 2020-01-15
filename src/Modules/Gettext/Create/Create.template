@@ -1,0 +1,6 @@
+<div ng-controller="CreateLanguageController">
+    <button class="btn btn-success" ng-click="newLanguage()"><span class="glyphicon glyphicon-plus"></span>&nbsp;##New language##</button>
+    @@CREATEMODAL@@
+</div>
+
+<script>@@ANGULARCONTROLLER@@</script>

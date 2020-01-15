@@ -1,0 +1,5 @@
+<div class="form-group checkbox-select-language" >
+    <input type="hidden" name="@@NAME@@" value="@@LOCALE@@"/>
+    <input class="qa_selectlanguage" type="checkbox" name="@@NAME@@State" value="1" @@CHECKED@@>
+    <span>@@FULLNAME@@</span>
+</div>

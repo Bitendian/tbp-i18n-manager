@@ -1,0 +1,4 @@
+<form method="post" action="" class="qa_extracttextsform">
+    <input type="hidden" name="action" value='@@ACTION@@' />
+    <button type="submit" class="qa_extracttexts btn btn-success form-control">##Analyze code to extract multi-language texts##</button>
+</form>
