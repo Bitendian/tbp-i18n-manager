@@ -2,7 +2,10 @@
 This packages **is NOT** a requirement to use i18n with TBP. TBP supports i18n
 by itself.
 
-This package add some modules to help manage i18n static contents.
+This package add some modules used already in many projects to help manage i18n
+static contents.
+
+All this projects has same multi-languages model.
 
 ## Requirements
 To run this package, there is some mandatory requirements:
