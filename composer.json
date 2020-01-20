@@ -13,15 +13,12 @@
             "homepage": "http://www.bitendian.com"
         }
     ],
-    "repositories": [
-        { "type": "vcs", "url": "git@github.com:Bitendian/tbp.git" }
-    ],
     "require": {
         "php": ">=7.1",
         "ext-gettext": "*",
         "ext-json": "*",
-        "bitendian/tbp": "1.0.18",
-        "gettext/gettext": "4.6.2",
+        "bitendian/tbp": "^1.0",
+        "gettext/gettext": "^4.6",
         "phpoffice/phpspreadsheet": "1.*"
     },
     "autoload": {
