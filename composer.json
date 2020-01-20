@@ -17,7 +17,7 @@
         { "type": "vcs", "url": "git@github.com:Bitendian/tbp.git" }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.1",
         "ext-gettext": "*",
         "ext-json": "*",
         "bitendian/tbp": "1.0.18",
