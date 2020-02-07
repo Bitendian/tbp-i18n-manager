@@ -17,7 +17,7 @@ abstract class AbstractExportExcelWidget extends AbstractWidget
     public $title;
     public $headers;
     public $body;
-    public $creator = 'CIRPROTEC';
+    public $creator = 'TBP';
 
     public function render()
     {
